@@ -10,6 +10,6 @@ const libro ={
 const nacimiento = new Date("march 16 2001");
 
 // Lista
-const yo = ["Santiago", 21, false, nacimiento, libro];
+const lista = ["Santiago", 21, false, nacimiento, libro];
 
-console.log(yo);
+console.log(lista);
